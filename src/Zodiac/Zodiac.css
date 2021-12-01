@@ -1,0 +1,26 @@
+.zodiac {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+
+.zodiac img {
+  width: 150px;
+  height: 150px;
+  opacity: 80%;
+}
+
+.zodiac .name {
+  text-transform: uppercase;
+  margin-left: 20%;
+  color: rgba(27, 27, 27, 0.808);
+}
+
+.zodiac .dates {
+  font-size: 9pt;
+  color: rgb(85, 83, 83);
+  font-style: italic;
+  margin-left: 10%;
+}
